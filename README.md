@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varolkan
 - 👀 I’m an engineering student
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’ve been learning C++ & Python
 - ⚡ Fun fact: I like pizza
 
 <!---
