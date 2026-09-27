@@ -49,4 +49,4 @@ _Personal Portfolio_
 - 🇪🇸 **Spanish** (Basic)
 
 ---
-[🌐 Visit my Portfolio](https://msalih.bektur.tech/)
+[🌐 Visit my Portfolio](bektur.dev)
