@@ -30,7 +30,7 @@ _Mechatronic Control System_
 - Designed custom **PCB** circuits for power distribution and motor drivers.
 - Implemented precise pathing algorithms for stepper motors.
 
-### [Portfolio Website](https://msalih.bektur.tech/)
+### [Portfolio Website](bektur.dev)
 _Personal Portfolio_
 - A personal portfolio website to demonstrate my works in Mechatronics projects.
 - **Tech:** Modern Web Technologies
