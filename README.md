@@ -2,7 +2,7 @@
 
 **Mechatronics Engineer | Full-Stack Developer | Robotics Enthusiast**
 
-I am a Mechatronics Engineer bridging the gap between the physical and digital worlds. My expertise spans from low-level C++ controlling high-speed motors to React front-ends for user interaction. I apply a system-level approach to software development, built on control theory, PCB design, and embedded programming.
+I am a Mechatronics Engineer bridging the gap between the physical and digital worlds. My expertise spans from low-level C++ controlling high-speed motors to React front-ends for user interaction. I am passionate about building intelligent systems that connect hardware and software.
 
 - 🔭 I’m currently working on **Robotics and Full-Stack Web Development**
 - 🌱 I’m currently learning **Advanced Embedded Systems & Economics**
@@ -30,7 +30,7 @@ _Mechatronic Control System_
 - Designed custom **PCB** circuits for power distribution and motor drivers.
 - Implemented precise pathing algorithms for stepper motors.
 
-### [Portfolio Website](bektur.dev)
+### [Portfolio Website](https://bektur.dev)
 _Personal Portfolio_
 - A personal portfolio website to demonstrate my works in Mechatronics projects.
 - **Tech:** Modern Web Technologies
@@ -49,4 +49,4 @@ _Personal Portfolio_
 - 🇪🇸 **Spanish** (Basic)
 
 ---
-[🌐 Visit my Portfolio](bektur.dev)
+[🌐 Visit my Portfolio](https://bektur.dev)
